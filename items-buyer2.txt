@@ -1,0 +1,4 @@
+3
+260 Bike
+5001 Car
+500 Laptop

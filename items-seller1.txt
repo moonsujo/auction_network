@@ -1,0 +1,5 @@
+4
+230 Bike
+5000 Car
+499 Laptop
+1 Mouse pad

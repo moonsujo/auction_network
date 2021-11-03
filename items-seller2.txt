@@ -1,0 +1,4 @@
+3
+220 Bike
+499 Laptop
+15 Mouse
