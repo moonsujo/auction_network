@@ -3,7 +3,7 @@ a server orchestrates placing bids on a seller thread's items from a buyer threa
 you can run this code by executing "make run-phase2" on the linux command line.
 
 # INSTRUCTIONS (worked on windows 10 Ubuntu)
-clone repository
+clone repository \n
 sudo apt-get update
 sudo apt-get install g++
 sudo apt-get install make
