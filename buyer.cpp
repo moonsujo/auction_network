@@ -1,4 +1,3 @@
-%%writefile buyer.cpp
 #include <iostream>
 #include <fstream>
 #include <iomanip>
