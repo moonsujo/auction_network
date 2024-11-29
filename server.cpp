@@ -1,4 +1,3 @@
-%%writefile server.cpp
 #include <iostream>
 #include <iomanip>
 #include <ctime>
