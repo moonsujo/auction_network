@@ -19,4 +19,3 @@ ps aux | grep -e server.out -e seller.out -e buyer.out
 kill -9 <process id>  
 to remove the .out files, run:  
 make clean  
-  
