@@ -2,7 +2,7 @@
 a server orchestrates placing bids on a seller thread's items from a buyer thread using TCP, UDP, and mutex  
 you can run this code by executing "make run-phase2" on the linux command line.
 
-# Instructions (worked on windows 10 Ubuntu)
+# Instructions (Windows 10 Ubuntu)
 clone repository  
 sudo apt-get update  
 sudo apt-get install g++  
