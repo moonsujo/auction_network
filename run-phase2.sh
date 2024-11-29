@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "Starting server..."
 ./server.out > server.log 2>&1 &
 pid_server=$!
